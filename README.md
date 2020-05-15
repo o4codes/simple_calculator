@@ -1,6 +1,6 @@
 # sample_calculator
 
-A new Flutter project.
+A simple calculator which follows the rule of BODMAS developed with Flutter.
 
 ## Getting Started
 
